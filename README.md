@@ -12,7 +12,7 @@
 
 💬 **Ask me about:** my work in the humanities, comparative cultural studies, art history, AI training, education, writing and editing, research, content creation, and ask me what it is like to learn coding when I am training AI. 
 
-**📫 You can reach me via:** **email: arbrauer@asu.edu**, **[Linkedin](www.linkedin.com/in/angela-brauer-01baa4305)**, & **phone: (520) 954-4001**
+**📫 You can reach me via:** **email: arbrauer@asu.edu**, **[LinkedIn](www.linkedin.com/in/angela-brauer-01baa4305),** & **phone: (520) 954-4001**
 
 **😄 Pronouns:** she/her/hers
 
