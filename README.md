@@ -1,8 +1,5 @@
 ## Hi there 👋
-<!--
-**angelarosemariebrauer/angelarosemariebrauer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-## I am a Master's Degree student at Arizona State University studying Liberal Studies in the Integrative Arts and Sciences Department. 
+<!--## I am a Master's Degree student at Arizona State University studying Liberal Studies in the Integrative Arts and Sciences Department. 
 
 - #####🔭 I’m currently working on AI training and evaluation, data analysis, course creation, education, research, building my professional portfolio website. 
 - #####🌱 I’m currently learning coding, HTLM, CSS, GitHub, responsive designing, SEO, foundations of developing a website.
