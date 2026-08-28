@@ -1,4 +1,4 @@
-<img width="1881" height="836" alt="header" src="https://github.com/user-attachments/assets/ddeb847a-1e2e-4893-b838-89a4c76a3576" />
+<img width="1200" height="417" alt="header" src="https://github.com/user-attachments/assets/ddeb847a-1e2e-4893-b838-89a4c76a3576" />
 
 ## I am a Master's Degree student at Arizona State University studying Liberal Studies in the Integrative Arts and Sciences Department.
 
@@ -22,6 +22,8 @@
 
 **A bit more about me:** I graduated in May of 2025 with a Bachelors in Humanities from Northern Arizona University.
 
-[Angela's 2025 Graduation from NAU] <img width="3000" height="4496" alt="gradimage" src="https://github.com/user-attachments/assets/513c4fb9-9866-4592-8ea4-4e25eb3014c3" />
+<img width="500" height="749" alt="gradimage" src="https://github.com/user-attachments/assets/513c4fb9-9866-4592-8ea4-4e25eb3014c3"/>
+
+ **Angela's 2025 Graduation from NAU**
 
 
