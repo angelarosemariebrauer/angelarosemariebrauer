@@ -9,4 +9,4 @@
 ##### 📫 You can reach me at my email: arbrauer@asu.edu & phone: (520) 954-4001.
 ##### 😄 Pronouns: she/her/hers
 ##### ⚡ Fun fact: I am a humanities scholar who has turned into a total AI professional, actively working in the field. I am also very passionate about art, history, anthropology, philosophy, nature, birds, and learning how the humanities and AI can go hand in hand. 
--->
+/-->
